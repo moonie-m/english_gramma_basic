@@ -98,3 +98,27 @@ He saw that the plan was useless. | 그는 그 계획이 쓸모없다는 것을 
 We watched the train leaving the station. | 우리는 기차가 역을 떠나는 것을 지켜보았다.
 We showed the pictures to our teacher. | 우리는 선생님께 사진을 보여드렸다.
 I prefer staying indoors on a cold winter day. | 나는 추운 겨울날에는 실내에 있는 것을 더 좋아한다.
+
+[2. Tense > 1. 기본시제 > 1. 현재시제 > (1) 현재의 사실, 동작, 상태를 나타낼 때]
+# 현재 시제를 나타내는 동사의 형태는 be, have 동사를 제외한 일반동사는 주어가 3인칭 단수 일 때 -s 또는 -es의 어미가 붙는다. 현재시제는 다음과 같은 경우에 쓴다. 
+# (1) 현재의 사실, 동작, 상태를 나타낼 때
+He possesses a large fortune. | (현재의 사실)
+I fill the glass with water. | (현재의 동작)
+She looks pale. | (현재의 상태)
+
+[2. Tense > 1. 기본시제 > 1. 현재시제 > (2) 과학적 진리나 불변의 사실로 일반적으로 인정되는 경우]
+# 현재 시제를 나타내는 동사의 형태는 be, have 동사를 제외한 일반동사는 주어가 3인칭 단수 일 때 -s 또는 -es의 어미가 붙는다. 현재시제는 다음과 같은 경우에 쓴다. 
+# (2) 과학적 진리나 불변의 사실로 일반적으로 인정되는 경우
+The sun rises in the east and set in the west. | 
+Two and two makes four. | 
+
+[2. Tense > 1. 기본시제 > 1. 현재시제 > (3) 현재의 습관적 행위를 나타낼 때]
+# 현재 시제를 나타내는 동사의 형태는 be, have 동사를 제외한 일반동사는 주어가 3인칭 단수 일 때 -s 또는 -es의 어미가 붙는다. 현재시제는 다음과 같은 경우에 쓴다. 
+# (3) 현재의 습관적 행위를 나타낼 때
+I usually get up early, but on Sundays I get up late. | 
+he plays tennis every day. | 
+
+[2. Tense > 1. 기본시제 > 1. 현재시제 > (4) 미래의 대용 : 왕, 래, 발, 착(go, come, start, leave, depart, arrive, return 등)]
+# 현재 시제를 나타내는 동사의 형태는 be, have 동사를 제외한 일반동사는 주어가 3인칭 단수 일 때 -s 또는 -es의 어미가 붙는다. 현재시제는 다음과 같은 경우에 쓴다. 
+# (4) 미래의 대용 : 왕, 래, 발, 착(go, come, start, leave, depart, arrive, return 등)을 나타내는 동사의 현재시제가 미래를 나타내는 부사(구)와 함께 쓰여 가까운 미래를 나타낸다.
+Your train leaves in half an hour. | 
