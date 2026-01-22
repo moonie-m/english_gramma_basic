@@ -1,0 +1,100 @@
+[1.Verbs > 1. 자동사(Intransitive Verb)와 타동사(Transitive Verb) > 1. 자동사]
+# 자동사는 동작이 **행위자(주어)**에 국한되어 **목적어(Object)**를 갖지 않는다.
+Birds sing. | 새들이 노래한다.
+Who cares? | 누가 신경 써? / 누가 상관해?
+Time flies like an arrow. | 시간은 화살처럼 빠르게 지나간다.
+
+[1.Verbs > 1. 자동사(Intransitive Verb)와 타동사(Transitive Verb) > 2. 타동사]
+# 타동사는 동작이 지배하는 대상, 즉 목적어를 갖는다.
+She writes a novel. | 그녀는 소설을 쓴다.
+The boy broke the vase. | 그 소년이 꽃병을 깨뜨렸다.
+The experiment interested us very much. | 그 실험은 우리에게 큰 흥미를 불러일으켰다.
+
+[1.Verbs > 2. 완전자동사(Complete Intransitive Verb)와 불완전자동사(Incomplete Intransitive Verb) > 1. 완전자동사 : S + V → 1형식 문장]
+# 자동사 자체가 주어의 동작이나 상태를 완전하게 나타내므로 **보어(Completement)를 필요로 하지 않는다.**
+Advertisement pays. | 광고는 효과가 있다 / 광고는 돈이 된다.
+Her cousin appeared suddenly last week. | 그녀의 사촌이 지난주에 갑자기 나타났다.
+She writes to her parents at home once a week. | 그녀는 집에 있는 부모님께 일주일에 한 번 편지를 쓴다.
+The sun has risen above the horizon. | 태양이 지평선 위로 떠올랐다.
+
+[1.Verbs > 2. 완전자동사(Complete Intransitive Verb)와 불완전자동사(Incomplete Intransitive Verb) > 2. 불완전자동사 : S + V + C → 2형식 문장]
+# 동사가 주어의 동작이나 상태를 완전하게 나타내지 못하므로 그것을 보충 설명하는 보어, 즉 주격보어(Subjective Completement)가 필요하다.
+He is a gentleman. | 그는 신사이다.
+Her story sounds reasonable. | 그녀의 이야기는 타당하게 들린다.
+It smells delicious. | 맛있는 냄새가 난다.
+He turned pale at the news. | 그는 그 소식을 듣고 창백해졌다.
+He looks younger than you. | 그는 너보다 더 어려 보인다.
+The little station looked dreary. | 그 작은 역은 음침해 보였다.
+
+[1.Verbs > 3. 완전타동사(Complete Transitive Verb)와 불완전타동사(Incomplete Transitive Verb) > 1. 완전타동사 : S + V + O → 3형식 문장]
+# 주어가 다른 사람, 사물, 동물에게 동작을 할 경우의 동사를 타동사라고 하는데, 한 개의 목적어만을 취하는 동사는 **완전 타동사**가 있다.
+# 보어 없이 목적어 하나만 갖는 완전타동사는 3형식 문장을 이룬다.
+The burglar broke the window. | 도둑이 창문을 깼다.
+He does not like cold water. | 그는 찬물을 좋아하지 않는다.
+She smiled her thanks. | 그녀는 미소로 감사를 표했다.
+Can you describe the man to me? | 그 남자를 나에게 묘사해 줄 수 있니?
+He distinguished himself in literature. | 그는 문학 분야에서 두각을 나타냈다.
+
+[1.Verbs > 3. 완전타동사(Complete Transitive Verb)와 불완전타동사(Incomplete Transitive Verb) > 2. 수여동사 : S + V + I.O. + D.O → 4형식 문장]
+# 주어가 다른 사람, 사물, 동물에게 동작을 할 경우의 동사를 타동사라고 하는데, 두 개의 목적어를 취하는 **수여동사**가 있다.
+# 두 개의 목적어, 즉 **간접목적어(Indirect Object)**와 **직접목적어(Direct Object)**를 갖는 타동사를 **수여동사(Dative Verb)**라고 말한다. **간접목적어**는 보통 사람인 경우가 많아서 **'~에게'**로 해석되며, **직접목적어**는 보통 사물을 가리키기 때문에 **'~을(를)'**로 해석하는 경우가 많다.
+I read my brother a fairy tale. | 나는 남동생에게 동화를 읽어 주었다.
+She bought me a gold watch. | 그녀는 나에게 금시계를 사주었다.
+He asked me a difficult question. | 그는 나에게 어려운 질문을 했다.
+I have promised him a position. | 나는 그에게 직책을/자리를 약속했다.
+She cooked her children vegetable soup. | 그녀는 아이들에게 채소수프를 만들어 주었다.
+
+[1.Verbs > 3. 완전타동사(Complete Transitive Verb)와 불완전타동사(Incomplete Transitive Verb) > 2. 수여동사 : S + V + I.O. + D.O → 4형식 문장 > (1) 3형식으로 바꾸기. 전치사 to] 
+# 간접목적어 앞에 전치사 **to**를 써서 3형식으로 바꿀 수 있다.
+# **bring, give, lend, pass, pay, send, teach, tell** 등
+He sent me a present. | 그는 나에게 선물을 보냈다. (4형식)
+He sent a present to me. | 그는 나에게 선물을 보냈다. (3형식)
+Please give me the salt. | 소금 좀 주세요/건네주세요. (4형식)
+Please give the salt to me. | 그 소금을 나에게 주세요/건네주세요. (3형식)
+I paid him my respects. | 나는 그에게 예의를 표했다. (4형식)
+I paid my respects to him. | 나는 그에게 예의를 표했다. (3형식)
+
+[1.Verbs > 3. 완전타동사(Complete Transitive Verb)와 불완전타동사(Incomplete Transitive Verb) > 2. 수여동사 : S + V + I.O. + D.O → 4형식 문장 > (1) 3형식으로 바꾸기. 전치사 for] 
+# 간접목적어 앞에 전치사 **for**를 써서 3형식으로 바꿀 수 있다.
+# buy, get, find, make 등
+He bought Jenny a nice present. | 그는 제니에게 멋진 선물을 사주었다.  (4형식)
+He bought a nice present for Jenny. | 그는 제니를 위해 멋진 선물을 샀다.  (3형식)
+She got me a camera. | 그녀는 나에게 카메라를 구해 주었다/사 주었다. (4형식)
+She got a camera for me. | 그녀는 나를 위해 카메라를 구했다/샀다.  (3형식)
+Will you find me my contact lens? | 내 콘택트렌즈를 좀 찾아줄래?  (4형식)
+Will you find my contact lens for me? | 내 콘택트렌즈를 나 대신 좀 찾아줄래?  (3형식)
+My father made me a kite. | 우리 아빠는 나에게 연을 만들어 주셨다.  (4형식)
+My father made a kite for me. | 우리 아빠는 나를 위해 연을 만들어 주셨다. (3형식)
+
+[1.Verbs > 3. 완전타동사(Complete Transitive Verb)와 불완전타동사(Incomplete Transitive Verb) > 2. 수여동사 : S + V + O. + O.C. → 5형식 문장] 
+# 목적어의 성질, 상태, 동작 등을 보충 설명하는 **목적격보어(Objective Complement)**를 갖는 불완전타동사는 5형식 문장을 이룬다. 목적격보어로는 **명사, 형용사, to 부정사, 현재분사, 과거분사** 등이 사용될 수 있다.
+John made his son a pianist. | 존은 아들을 피아니스트로 만들었다. 
+The court declared him guilty. | 법원은 그를 유죄라고 선언했다.
+I want her to come. | 나는 그녀가 오기를 원한다.
+He listened to the band playing in the park. | 그는 공원에서 연주하는 밴드의 연주를 들었다.
+I had my leg broken in the accident. | 나는 그 사고로 다리가 부러졌다.
+I heard my name called behind me. | 나는 뒤에서 내 이름이 불리는 것을 들었다.
+
+[1.Verbs > 연습문제 > 1] 
+We have already had breakfast. | 우리는 이미 아침을 먹었다.
+I found him working at his desk. | 나는 그가 책상에서 일하고 있는 것을 발견했다.
+They set the prisoners free. | 그들은 죄수들을 석방했다.
+He explained that nothing could be done. | 그는 아무것도 할 수 없다고 설명했다.
+She enjoys playing tennis. | 그녀는 테니스를 치는 것을 즐긴다.
+She told the news to everybody she met. | 그녀는 만나는 모든 사람에게 그 소식을 말했다.
+Please pass me the salt. | 소금 좀 건네주세요.
+They punished him for being late. | 그들은 그가 늦은 것에 대해 그를 벌했다.
+The forest stretched miles and miles. | 숲이 끝없이(몇 마일이고) 펼쳐져 있었다.
+The leaves have turned red. | 나뭇잎이 빨갛게 변했다.
+
+[1.Verbs > 연습문제 > 2] 
+A chair will not stand on two legs. | 의자는 두 다리로는 서 있을 수 없다.
+The plan proved useless. | 그 계획은 쓸모없다는 것이 드러났다.
+She made herself a cup of tea. | 그녀는 자신을 위해 차 한 잔을 만들었다.
+I will have him do the work. | 나는 그에게 그 일을 시킬 것이다.
+He is learning how to swim. | 그는 수영하는 법을 배우고 있다.
+I wonder why she has not come. | 나는 왜 그녀가 오지 않았는지 궁금하다.
+He saw that the plan was useless. | 그는 그 계획이 쓸모없다는 것을 알았다/깨달았다.
+We watched the train leaving the station. | 우리는 기차가 역을 떠나는 것을 지켜보았다.
+We showed the pictures to our teacher. | 우리는 선생님께 사진을 보여드렸다.
+I prefer staying indoors on a cold winter day. | 나는 추운 겨울날에는 실내에 있는 것을 더 좋아한다.
