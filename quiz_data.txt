@@ -102,23 +102,194 @@ I prefer staying indoors on a cold winter day. | 나는 추운 겨울날에는 �
 [2. Tense > 1. 기본시제 > 1. 현재시제 > (1) 현재의 사실, 동작, 상태를 나타낼 때]
 # 현재 시제를 나타내는 동사의 형태는 be, have 동사를 제외한 일반동사는 주어가 3인칭 단수 일 때 -s 또는 -es의 어미가 붙는다. 현재시제는 다음과 같은 경우에 쓴다. 
 # (1) 현재의 사실, 동작, 상태를 나타낼 때
-He possesses a large fortune. | (현재의 사실)
-I fill the glass with water. | (현재의 동작)
-She looks pale. | (현재의 상태)
+He possesses a large fortune. | (현재의 사실) 그는 막대한 재산을 소유하고 있다.
+I fill the glass with water. | (현재의 동작) 나는 잔에 물을 채운다.
+She looks pale. | (현재의 상태) 그녀는 창백해 보인다.
 
 [2. Tense > 1. 기본시제 > 1. 현재시제 > (2) 과학적 진리나 불변의 사실로 일반적으로 인정되는 경우]
 # 현재 시제를 나타내는 동사의 형태는 be, have 동사를 제외한 일반동사는 주어가 3인칭 단수 일 때 -s 또는 -es의 어미가 붙는다. 현재시제는 다음과 같은 경우에 쓴다. 
 # (2) 과학적 진리나 불변의 사실로 일반적으로 인정되는 경우
-The sun rises in the east and set in the west. | 
-Two and two makes four. | 
+The sun rises in the east and sets in the west. | 태양은 동쪽에서 뜨고 서쪽으로 진다.
+Two and two makes four. | 2 더하기 2는 4가 된다.
 
 [2. Tense > 1. 기본시제 > 1. 현재시제 > (3) 현재의 습관적 행위를 나타낼 때]
 # 현재 시제를 나타내는 동사의 형태는 be, have 동사를 제외한 일반동사는 주어가 3인칭 단수 일 때 -s 또는 -es의 어미가 붙는다. 현재시제는 다음과 같은 경우에 쓴다. 
 # (3) 현재의 습관적 행위를 나타낼 때
-I usually get up early, but on Sundays I get up late. | 
-he plays tennis every day. | 
+I usually get up early, but on Sundays I get up late. | 나는 보통 일찍 일어나지만, 일요일에는 늦게 일어난다.
+he plays tennis every day. | 그는 매일 테니스를 친다.
 
 [2. Tense > 1. 기본시제 > 1. 현재시제 > (4) 미래의 대용 : 왕, 래, 발, 착(go, come, start, leave, depart, arrive, return 등)]
 # 현재 시제를 나타내는 동사의 형태는 be, have 동사를 제외한 일반동사는 주어가 3인칭 단수 일 때 -s 또는 -es의 어미가 붙는다. 현재시제는 다음과 같은 경우에 쓴다. 
 # (4) 미래의 대용 : 왕, 래, 발, 착(go, come, start, leave, depart, arrive, return 등)을 나타내는 동사의 현재시제가 미래를 나타내는 부사(구)와 함께 쓰여 가까운 미래를 나타낸다.
-Your train leaves in half an hour. | 
+Your train leaves in half an hour. | 너의 기차는 30분 후에 출발한다.
+
+[2. Tense> 1. 기본시제(primary tense) > 1. 현재시제 ]
+# (5) 시간, 조건을 나타내는 부사절에서 미래시제의 대용으로 현재시제를 사용한다. 
+# 시간, 조건이 없으면 현재시제로 미래를 나타낼 수 없다.
+I will watch television at home if it rains tomorrow. | 내일 비가 오면 집에서 텔레비전을 볼 것이다.
+I will let you know when he arrives. | 그가 도착하면 너에게 알려줄게.
+I will let you know when he will arrive. | 그가 언제 도착할지 너에게 알려줄게.
+
+# (6) 역사적 현재 : 과거의 일을 눈앞에 생생하게 나타내기 위해 현재시제를 사용하기로 한다.
+Europe finally emerges from chaos in the eighth century, when Charles the Great appears. | 8세기에 찰스 대제가 나타나면서 유럽은 마침내 혼란에서 벗어난다.
+
+[2. Tense> 1. 기본시제(primary tense) > 2. 과거시제 > (1) 과거의 상태와 동작, 사실을 나타낼 때 ]
+# be, have 동사를 제외한 일반동사의 경우 대부분은 -ed, -d, -t의 어미를
+붙이지만, see → saw 처럼 불규칙 변화를 하는 동사들이 있으므로 주의해야 한다. 과거시제는 다음과 같은 경우에 사용한다.
+# (1) 과거의 상태와 동작, 사실을 나타낼때
+She bought the hat last Sunday.  | (과거의 동작) 그녀는 지난 일요일에 모자를 샀다.
+Columbus discovered America in 1492.  | (과거의 사실) 콜럼버스는 1492년에 아메리카 대륙을 발견했다.
+My father was a poor farmer.  | (과거의 상태) 나의 아버지는 가난한 농부였다.
+
+[2. Tense > 1. 기본시제(primary tense) > 2. 과거시제 > (2) 과거의 습관적, 반복적 행위를 나타낼 때 ]
+# be, have 동사를 제외한 일반동사의 경우 대부분은 -ed, -d, -t의 어미를 붙이지만, see → saw 처럼 불규칙 변화를 하는 동사들이 있으므로 주의해야 한다. 과거시제는 다음과 같은 경우에 사용한다.
+# (2) 과거의 습관적, 반복적 행위를 나타낼 때
+She usually got up at five in those days. | 그녀는 그 당시에 보통 5시에 일어났다.
+He often went skating in winter. | 그는 겨울에 종종 스케이트를 타러 갔다.
+When she went shopping, she always took her dog with her. | 그녀는 쇼핑하러 갈 때 항상 개를 데리고 갔다.
+
+[2. Tense > 1. 기본시제(primary tense) > 3. 미래시제 > (1) 단순미래 ]
+#  <will 혹은 shall 동사원형 > 의 형태로 쓰여 미래의 일을 나타낸다. 원칙적으로는 단순 미래와 의지미래로 구분해서 shall 과 will의 쓰임이 다른 것으로 분류되지만, 현대 미국식 영어에서는 단순미래는 모두 will로 통일되는 경향이 있다.
+# (1) 단순미래 : 사람의 의지와 무관한 미래를 나타낸다. 
+I shall(or will) be fifteen years old next year. | 나는 내년에 15살이 된다.
+You will get a present from my mother. | 너는 우리 엄마에게서 선물을 받을 것이다.
+My father will come here soon. | 아버지는 곧 여기에 오실 것이다.
+Shall(or Will) I get well if I take this medicine? | 이 약을 먹으면 나을까요?
+Shall(or Will) you be in time if you start at once? | 지금 당장 출발하면 시간에 맞출 수 있겠니?
+Will she call on you tomorrow? | 그녀가 내일 너를 방문할까?
+
+[2. Tense> 1. 기본시제(primary tense) > 3. 미래시제 > (2) 의지미래 ]
+#  <will 혹은 shall 동사원형 > 의 형태로 쓰여 미래의 일을 나타낸다. 원칙적으로는 단순 미래와 의지미래로 구분해서 shall 과 will의 쓰임이 다른 것으로 분류되지만, 현대 미국식 영어에서는 단순미래는 모두 will로 통일되는 경향이 있다.
+# (2) 의지미래
+# (a) 주어의 의지를 나타낸다. 이 경우에는 모두 wil을 쓴다.
+I will pay the money I owe you next week. | 내가 너에게 빚진 돈을 다음 주에 갚을게.
+You will help me, I am sure. | 너는 나를 도와줄 거야, 나는 확신해.
+He will have his own way. | 그는 자기 마음대로 하려고 한다.
+
+[2. Tense> 1. 기본시제(primary tense) > 3. 미래시제 > (2) 의지미래 ]
+#  <will 혹은 shall 동사원형 > 의 형태로 쓰여 미래의 일을 나타낸다. 원칙적으로는 단순 미래와 의지미래로 구분해서 shall 과 will의 쓰임이 다른 것으로 분류되지만, 현대 미국식 영어에서는 단순미래는 모두 will로 통일되는 경향이 있다.
+# (2) 의지미래
+# (b) 말하는 사람(speaker = I)의 의지를 나타낸다.
+I will pay you at the end of the month. | 이달 말에 너에게 돈을 지불할게.
+You shall have it for nothing. | 너에게 그것을 공짜로 주겠다.
+I will let you have it for nothing. | 너에게 그것을 공짜로 주겠다.
+He shall come. | 그를 오게 하겠다.
+I will let him come. | 그가 오도록 하겠다.
+
+[2. Tense> 1. 기본시제(primary tense) > 3. 미래시제 > (2) 의지미래 ]
+#  <will 혹은 shall 동사원형 > 의 형태로 쓰여 미래의 일을 나타낸다. 원칙적으로는 단순 미래와 의지미래로 구분해서 shall 과 will의 쓰임이 다른 것으로 분류되지만, 현대 미국식 영어에서는 단순미래는 모두 will로 통일되는 경향이 있다.
+# (2) 의지미래
+# (c) 듣는 사람(hearer=you)의 의지를 나타낸다.
+Shall I open the window? | 창문을 열까요?
+Do you wish me to open the window? | 제가 창문을 열기를 원하시나요? 
+Will you tell me the secret? | 그 비밀을 말해 줄래요?
+Shall he send for the doctor? | 그에게 의사를 부르러 보내시겠습니까?
+Will you let me send him for the doctor? | 제가 그를 시켜 의사를 부르러 가게 해 주시겠습니까?
+
+[2. Tense >  2. 완료시제(Perfect Tense) > 1. 현재완료 > (1) 완료 ]
+# 완료시제에는 현재완료, 과거완료, 미래완료가 있다. 현재완료는 과거의 어느 한 시점에서 일어난 동작이나 상태를 현재와 연관시켜 표현하는 것을 가리키며, (have+동사의 과거분사형>으로 표시한다.
+# 현재완료시제는 <have(has) + 동사의 과거분사형>의 형식을 갖는다. 명확한 과거의 시간을 나타내는 과거시제와는 달리, 현재완료시제는 과거에서 시작해서 현재에 이르기까지의 비확정된 시간을 나타내며 완료, 경험, 계속, 결과의 의미를 지닌다.
+# (1) 완료 : 현재에 가까운 시점에 동작이 완료되었음을 나타내며 just, now, already, yet, by this time 등의 부사와 함께 쓰인다.
+My husband has just cleaned the table. | 남편이 방금 테이블 청소를 마쳤다. 
+He has already finished his work. | 그는 이미 일을 끝마쳤다.
+Hasn’t it stopped raining? | 비가 아직 그치지 않았니?
+
+[2. Tense >  2. 완료시제(Perfect Tense) > 1. 현재완료 > (2) 경험 ]
+# 완료시제에는 현재완료, 과거완료, 미래완료가 있다. 현재완료는 과거의 어느 한 시점에서 일어난 동작이나 상태를 현재와 연관시켜 표현하는 것을 가리키며, (have+동사의 과거분사형>으로 표시한다.
+# 현재완료시제는 <have(has) + 동사의 과거분사형>의 형식을 갖는다. 명확한 과거의 시간을 나타내는 과거시제와는 달리, 현재완료시제는 과거에서 시작해서 현재에 이르기까지의 비확정된 시간을 나타내며 완료, 경험, 계속, 결과의 의미를 지닌다.
+# (2) 경험 : 과거의 어떤 시점에서 시작된 일이 이미 동작은 종료되었지만, 그 경험이 현재까지 영향을 미치는 경우인데, ever, never, once, often, seldom, before 등의 부사와 함께 쓰인다.
+Have you ever read any of his novels? | 그의 소설 중 어떤 것이라도 읽어본 적이 있니? (원문의 'nay'는 'any'의 오타)
+I have seen him before. | 나는 전에 그를 본 적이 있다.
+Father has never fallen ill in his life. | 아버지는 평생 아프신 적이 한 번도 없다.
+
+[2. Tense >  2. 완료시제(Perfect Tense) > 1. 현재완료 > (3) 경험 ]
+# 완료시제에는 현재완료, 과거완료, 미래완료가 있다. 현재완료는 과거의 어느 한 시점에서 일어난 동작이나 상태를 현재와 연관시켜 표현하는 것을 가리키며, (have+동사의 과거분사형>으로 표시한다.
+# 현재완료시제는 <have(has) + 동사의 과거분사형>의 형식을 갖는다. 명확한 과거의 시간을 나타내는 과거시제와는 달리, 현재완료시제는 과거에서 시작해서 현재에 이르기까지의 비확정된 시간을 나타내며 완료, 경험, 계속, 결과의 의미를 지닌다.
+# (3) 계속 : 과거의 시점에 시작된 동작 또는 상태가 현재까지 계속되는 경우를 나타내며, how long, for, since these 등과 함께 쓰인다. (지금도 계속 진행 중인 상태를 말함)
+He has been ill for the past three weeks. | 그는 지난 3주 동안 계속 아팠다.
+I have known him for ten years. | 나는 그를 10년 동안 알고 지냈다.
+I have heard nothing from him since then. | 나는 그때 이후로 그에게서 아무런 소식도 듣지 못했다.
+
+[2. Tense >  2. 완료시제(Perfect Tense) > 1. 현재완료 > (4) 결과 ]
+# 완료시제에는 현재완료, 과거완료, 미래완료가 있다. 현재완료는 과거의 어느 한 시점에서 일어난 동작이나 상태를 현재와 연관시켜 표현하는 것을 가리키며, (have+동사의 과거분사형>으로 표시한다.
+# 현재완료시제는 <have(has) + 동사의 과거분사형>의 형식을 갖는다. 명확한 과거의 시간을 나타내는 과거시제와는 달리, 현재완료시제는 과거에서 시작해서 현재에 이르기까지의 비확정된 시간을 나타내며 완료, 경험, 계속, 결과의 의미를 지닌다.
+# (4) 결과 : 과거의 동작이나 상태가 현재에 영향을 미치는 경우를 나타낸다.
+She has lost her eyesight. | 그녀는 시력을 잃었다.
+He has gone to America. | 그는 미국으로 가버렸다.
+He has made much money. | 그는 돈을 많이 벌었다.
+
+[2. Tense >  2. 완료시제(Perfect Tense) > 2. 과거완료 ]
+# 과거완료는 현재완료를 과거 쪽으로 옮겨 놓은 것이라고 생각하면 되고, <had + 동사의 과거분사형>으로 표시한다. 
+# 과거완료시제는 <had + 동사의 과거분사형>의 형식으로 쓰여서, 과거의 어떤 시점을 기준으로 하여 그 이전의 동작이나 상태(대과거), 혹은 그 이전의 동작이나 상태가 기준시점까지 해애진 완료, 경험, 계속, 상태를 가리킨다.
+I saw the girl again whom I had met in the park the other day. | (대과거) 나는 일전에 공원에서 만났던 소녀를 다시 보았다.
+I had just finished watering the lawn when it began to rain. | (완료) 비가 오기 시작했을 때 나는 막 잔디에 물 주는 것을 마쳤었다.
+Spring had come by the time she was well again. | (결과) 그녀가 다시 건강해졌을 때쯤에는 이미 봄이 와 있었다.
+She had been ill for two weeks when he came back. | (계속) 그가 돌아왔을 때 그녀는 2주 동안 앓고 있었다.
+
+[2. Tense >  2.  완료시제(Perfect Tense) > 3. 미래완료 ]
+# 미래완료는 <will(shall) have + 동사의 과거분사형>의 형식으로 쓰여, 미래의 어떤 때를 기준으로 하여 그 이전, 즉 과거, 현재, 혹은 미래의 기준 시점 이전의 미래에 시작된 어떤 일을 그 시점까지 완료되거나, 계속 진행되거나, 결과가 영향을 미치는 경우를 가리킨다.
+# 미래완료 <will(shall) have + 동사의 과거분사형>을 써서, 미래의 어떤 시점을 기준으로 하여 그 이전에 시작된 어떤 일이 그때까지 완료, 경험, 결과의 의미로 영향을 미칠 것임을 나타낸다.
+He will have completed it before you return. | (완료) 네가 돌아오기 전에 그는 그것을 끝마쳐 놓을 것이다.
+He will have gone to Paris next year. | (결과) 내년이면 그는 파리로 가버리고 없을 것이다.
+I shall have read this book three times if I read it again. | (경험) 이 책을 한 번 더 읽으면 세 번 읽는 셈이 된다.
+He will have been in hospital for three weeks by next Monday. | (계속) 다음 월요일이면 그는 3주째 입원해 있는 것이 된다.
+
+[2. Tense >  2. 진행형(Progressive Form) > 3. 미래완료 ]
+# 동사에는 동작을 나타내는 동사(come, go, study, work …)와 상태를 나타내는 동사(be, know, like, see …)가 있다. 진행형은 동작 동사에 쓰여 동작의 계속성을 나타낸다. 진행형의 형식은 <be + 동사의 현재분사(~ing)>이다.
+# 상태의 동사에는 진행형을 쓰지 않는다.
+I have a new bicycle. | 나는 새 자전거를 가지고 있다.
+I know the girl well. | 나는 그 소녀를 잘 안다.
+
+[2. Tense >  2. 진행형(Progressive Form) > 3. 미래완료 > (1) 현재진행형]
+# 동사에는 동작을 나타내는 동사(come, go, study, work …)와 상태를 나타내는 동사(be, know, like, see …)가 있다. 진행형은 동작 동사에 쓰여 동작의 계속성을 나타낸다. 진행형의 형식은 <be + 동사의 현재분사(~ing)>이다.
+# 상태의 동사에는 진행형을 쓰지 않는다.
+# (1) 현재진행형은 동작이 지금 현재 진행 중임을 나타낸다.
+He is watering the plants now. | 그는 지금 식물에 물을 주고 있다.
+
+[2. Tense >  2. 진행형(Progressive Form) > 3. 미래완료 > (2) 과거진행형]
+# 동사에는 동작을 나타내는 동사(come, go, study, work …)와 상태를 나타내는 동사(be, know, like, see …)가 있다. 진행형은 동작 동사에 쓰여 동작의 계속성을 나타낸다. 진행형의 형식은 <be + 동사의 현재분사(~ing)>이다.
+# 상태의 동사에는 진행형을 쓰지 않는다.
+# (2) 과거진행형은 동작이 과거의 시점에 진행, 계속되고 있음을 나타낸다.
+It was raining hard when I came home last night. | 어젯밤 집에 왔을 때 비가 몹시 내리고 있었다.
+
+[2. Tense >  2. 진행형(Progressive Form) > 3. 미래완료 > (3) 미래진행형]
+# 동사에는 동작을 나타내는 동사(come, go, study, work …)와 상태를 나타내는 동사(be, know, like, see …)가 있다. 진행형은 동작 동사에 쓰여 동작의 계속성을 나타낸다. 진행형의 형식은 <be + 동사의 현재분사(~ing)>이다.
+# 상태의 동사에는 진행형을 쓰지 않는다.
+# (3) 미래진행형은 미래의 시점에 동작이 진행 중일 것을 나타낸다.
+I shall be studying when you get up. | 네가 일어날 때쯤 나는 공부하고 있을 것이다.
+
+[2. Tense >  2. 진행형(Progressive Form) > 3. 미래완료 > (4) 현재완료 진행형]
+# 동사에는 동작을 나타내는 동사(come, go, study, work …)와 상태를 나타내는 동사(be, know, like, see …)가 있다. 진행형은 동작 동사에 쓰여 동작의 계속성을 나타낸다. 진행형의 형식은 <be + 동사의 현재분사(~ing)>이다.
+# 상태의 동사에는 진행형을 쓰지 않는다.
+# (4) 현재완료 진행형은 과거에 시작한 동작이 현재까지도 계속 중인 것을 나타낸다.
+How have you been spending the morning? | 아침을 어떻게 보내고 있었니?
+
+[2. Tense >  2. 진행형(Progressive Form) > 3. 미래완료 > (5) 과거완료 진행형]
+# 동사에는 동작을 나타내는 동사(come, go, study, work …)와 상태를 나타내는 동사(be, know, like, see …)가 있다. 진행형은 동작 동사에 쓰여 동작의 계속성을 나타낸다. 진행형의 형식은 <be + 동사의 현재분사(~ing)>이다.
+# 상태의 동사에는 진행형을 쓰지 않는다.
+# (5) 과거완료 진행형은 과거의 A라는 시점을 기준으로 그 이전인 B에 시작한 동작이 A의 시점에도 계속되고 있는 경우를 나타낸다.
+We had been corresponding regularly for many years before his death. | 그가 죽기 전까지 우리는 수년 동안 정기적으로 편지를 주고받고 있었다.
+
+[2. Tense >  2. 진행형(Progressive Form) > 3. 미래완료 > (6) 미래를 나타내는 진행형]
+# 동사에는 동작을 나타내는 동사(come, go, study, work …)와 상태를 나타내는 동사(be, know, like, see …)가 있다. 진행형은 동작 동사에 쓰여 동작의 계속성을 나타낸다. 진행형의 형식은 <be + 동사의 현재분사(~ing)>이다.
+# 상태의 동사에는 진행형을 쓰지 않는다.
+# (6) 진행형이 가까운 미래를 나타내는 부사(구)와 함께 쓰여서 미래를 나타내는 경우가 있다.
+I am returning home tomorrow. | 나는 내일 집으로 돌아갈 것이다.
+
+[2. Tense >  연습문제 > 1 ]
+He will not start if it rains tomorrow. | 내일 비가 오면 그는 출발하지 않을 것이다.
+I don’t know if it will rain tomorrow. | 내일 비가 올지 안 올지 모르겠다.
+Let us start as soon as day breaks. | 날이 밝자마자 출발하자.
+We have had much rain this year. | 올해는 비가 많이 왔다.
+I learned that twice three is six. | 나는 2 곱하기 3은 6이라는 것을 배웠다.
+When she went shopping, she always took her dog with her. | 그녀는 쇼핑하러 갈 때 항상 개를 데리고 갔다.
+He resembles his father closely. | 그는 아버지를 쏙 빼닮았다.
+
+[2. Tense >  연습문제 > 2 ]
+She arrived half an hour ago. | 그녀는 30분 전에 도착했다.
+The weather forecast tells if it will rain or not. | 일기 예보는 비가 올지 안올지를 알려준다.
+I’ll put off my departure if it rains. | 비가 오면 출발을 미룰 것이다.
+I recognized him at once, for I had met him before. | 나는 전에 그를 만난 적이 있었기 때문에 즉시 그를 알아봤다.
+I wash my hands before meals. | 나는 식사 전에 손을 씻는다.
+He has been ill for the past three weeks. | 그는 지난 3주 동안 계속 아팠다.
+The sun rises in the east and sets in the west. | 해는 동쪽에서 뜨고 서쪽으로 진다.
