@@ -261,8 +261,12 @@ with st.sidebar:
         else:
             st.info(f"오답 {len(incorrect_list)}개 복습 중")
             st.session_state.current_pool = incorrect_list
+            # 모드가 바뀌었을 때만 초기화
             if st.session_state.get('last_mode') != 'incorrect':
-                st.session_state.last_mode = 'incorrect'; st.session_state.q_index = 0; next_question(); st.rerun()
+                st.session_state.last_mode = 'incorrect'
+                st.session_state.q_index = 0
+                next_question()
+                st.rerun()
     else:
         all_majors = sorted(list(set(q['major'] for q in ALL_QUESTIONS)))
         sel_major = st.selectbox("1. 대단원", ["전체"] + all_majors, key="major_select")
@@ -276,13 +280,25 @@ with st.sidebar:
         else: minor_opts = sorted(list(set(q['minor'] for q in ALL_QUESTIONS if q['major'] == sel_major and q['middle'] == sel_middle)))
         sel_minor = st.selectbox("3. 소단원", ["전체"] + minor_opts, key=f"min_{sel_major}_{sel_middle}")
 
-        mastered_keys = set((m['key'], m['eng']) for m in mastered_list)
+        # [수정된 부분] 졸업 데이터 비교 로직 강화 (공백 제거 후 비교)
+        mastered_keys = set()
+        for m in mastered_list:
+            # 시트에서 가져온 데이터의 앞뒤 공백을 확실히 제거
+            k = str(m.get('key', '')).strip()
+            e = str(m.get('eng', '')).strip()
+            mastered_keys.add((k, e))
+
         filtered = []
         for q in ALL_QUESTIONS:
             if sel_major!="전체" and q['major']!=sel_major: continue
             if sel_middle!="전체" and q['middle']!=sel_middle: continue
             if sel_minor!="전체" and q['minor']!=sel_minor: continue
-            if not show_mastered and (q['key'], q['eng']) in mastered_keys: continue
+            
+            # 문제 데이터도 앞뒤 공백 제거 후 비교
+            q_key = str(q['key']).strip()
+            q_eng = str(q['eng']).strip()
+            
+            if not show_mastered and (q_key, q_eng) in mastered_keys: continue
             filtered.append(q)
         
         st.session_state.current_pool = filtered
@@ -290,8 +306,12 @@ with st.sidebar:
         
         filter_key = f"{sel_major}-{sel_middle}-{sel_minor}-{show_mastered}"
         if st.session_state.get('last_filter') != filter_key or st.session_state.get('last_mode') == 'incorrect':
-            st.session_state.last_filter = filter_key; st.session_state.last_mode = 'normal'; st.session_state.q_index = 0; next_question(); st.rerun()
-
+            st.session_state.last_filter = filter_key
+            st.session_state.last_mode = 'normal'
+            st.session_state.q_index = 0
+            next_question()
+            st.rerun()
+            
 # ---------------------------------------------------------
 # 6. 메인 화면
 # ---------------------------------------------------------
