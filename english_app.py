@@ -238,7 +238,7 @@ def process_graduate():
         next_question()
 
 # ---------------------------------------------------------
-# 5. 사이드바
+# 5. 사이드바 (필터링 로직 강화 버전)
 # ---------------------------------------------------------
 st.title("🎓 Moonie's English Class")
 if not ALL_QUESTIONS: st.warning("데이터가 없습니다."); st.stop()
@@ -251,6 +251,8 @@ with st.sidebar:
     st.header("📚 학습 모드 설정")
     mode_selection = st.radio("모드 선택", ["일반 학습", "🔥 오답 노트"])
     st.session_state.mode_selection = mode_selection
+    
+    # 체크박스: 졸업 문장 포함 여부
     show_mastered = st.checkbox(f"🎓 졸업한 문장 포함 ({len(mastered_list)}개)", value=False)
     st.divider()
 
@@ -261,13 +263,13 @@ with st.sidebar:
         else:
             st.info(f"오답 {len(incorrect_list)}개 복습 중")
             st.session_state.current_pool = incorrect_list
-            # 모드가 바뀌었을 때만 초기화
             if st.session_state.get('last_mode') != 'incorrect':
                 st.session_state.last_mode = 'incorrect'
                 st.session_state.q_index = 0
                 next_question()
                 st.rerun()
     else:
+        # 드롭다운 메뉴 생성
         all_majors = sorted(list(set(q['major'] for q in ALL_QUESTIONS)))
         sel_major = st.selectbox("1. 대단원", ["전체"] + all_majors, key="major_select")
         
@@ -280,38 +282,45 @@ with st.sidebar:
         else: minor_opts = sorted(list(set(q['minor'] for q in ALL_QUESTIONS if q['major'] == sel_major and q['middle'] == sel_middle)))
         sel_minor = st.selectbox("3. 소단원", ["전체"] + minor_opts, key=f"min_{sel_major}_{sel_middle}")
 
-        # [수정된 부분] 졸업 데이터 비교 로직 강화 (공백 제거 후 비교)
-        mastered_keys = set()
+        # [핵심 수정] 졸업 데이터 비교 로직 강화 (공백 제거 & 문자열 변환)
+        mastered_signatures = set()
         for m in mastered_list:
-            # 시트에서 가져온 데이터의 앞뒤 공백을 확실히 제거
+            # 안전하게 문자열로 바꾸고(str), 앞뒤 공백 제거(strip)
+            # key와 영어문장(eng) 두 가지를 합쳐서 '고유 지문'을 만듭니다.
             k = str(m.get('key', '')).strip()
             e = str(m.get('eng', '')).strip()
-            mastered_keys.add((k, e))
+            if k and e: # 데이터가 비어있지 않을 때만 등록
+                mastered_signatures.add((k, e))
 
         filtered = []
         for q in ALL_QUESTIONS:
+            # 1. 사용자가 선택한 단원 필터링
             if sel_major!="전체" and q['major']!=sel_major: continue
             if sel_middle!="전체" and q['middle']!=sel_middle: continue
             if sel_minor!="전체" and q['minor']!=sel_minor: continue
             
-            # 문제 데이터도 앞뒤 공백 제거 후 비교
+            # 2. 졸업 여부 필터링 (똑같이 공백 제거 후 비교)
             q_key = str(q['key']).strip()
             q_eng = str(q['eng']).strip()
             
-            if not show_mastered and (q_key, q_eng) in mastered_keys: continue
+            # 졸업 목록에 있고, '졸업 문장 포함' 체크가 해제되어 있다면 -> 건너뛰기(continue)
+            if not show_mastered and (q_key, q_eng) in mastered_signatures: 
+                continue
+                
             filtered.append(q)
         
         st.session_state.current_pool = filtered
         st.caption(f"학습할 문제: {len(filtered)}개")
         
         filter_key = f"{sel_major}-{sel_middle}-{sel_minor}-{show_mastered}"
+        # 필터가 바뀌면 문제 초기화
         if st.session_state.get('last_filter') != filter_key or st.session_state.get('last_mode') == 'incorrect':
             st.session_state.last_filter = filter_key
             st.session_state.last_mode = 'normal'
             st.session_state.q_index = 0
             next_question()
             st.rerun()
-            
+
 # ---------------------------------------------------------
 # 6. 메인 화면
 # ---------------------------------------------------------
