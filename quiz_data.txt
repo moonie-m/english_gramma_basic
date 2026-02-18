@@ -90,7 +90,7 @@ The leaves have turned red. | 나뭇잎이 빨갛게 변했다.
 [1. Verbs > 연습문제 > 2] 
 A chair will not stand on two legs. | 의자는 두 다리로는 서 있을 수 없다.
 The plan proved useless. | 그 계획은 쓸모없다는 것이 드러났다.
-She made herself a cup of tea. | 그녀는 자신을 위해 차 한 잔을 만들었다.
+She made herself a cup of tea. | 그녀는 자신을 위해 차 한 잔을 만들었다. (4형식)
 I will have him do the work. | 나는 그에게 그 일을 시킬 것이다.
 He is learning how to swim. | 그는 수영하는 법을 배우고 있다.
 I wonder why she has not come. | 나는 왜 그녀가 오지 않았는지 궁금하다.
