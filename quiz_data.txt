@@ -444,3 +444,48 @@ We are to start at six tomorrow morning. | 우리는 내일 아침 6시에 출�
 She was never to see her homeland again. | 그녀는 다시는 그녀의 고국을 보지 못할 운명이었다. (운명)
 Not a cloud was to be seen. | 구름 한 점도 보여질 수 없었다. (가능)
 The conference is to be held at 10. | 그 회의는 10시에 열릴 예정이다. (예정)
+
+[4. Gerund > 1. 동명사의 기능 ]
+# 동명사는 명사에 준하는 문법적 역할을 수행하므로, 기본적으로 주어와 목적어(동사의 목적어, 전치사의 목적어), 그리고 보어의 역할을 한다.
+Walking in the country is very pleasant. | 시골에서 걷는 것은 매우 즐거운 일이다. [주어 역할]
+Living in the mountain must be fun. | 산에서 사는 것은 재미있는 일임에 틀림없다. [주어 역할]
+Commerce is buying and selling or exchanging goods. | 상업은 상품을 사고파는 것 또는 교환하는 것이다. [보어 역할]
+I suggested painting the kitchen green. | 나는 부엌을 초록색으로 칠하는 것을 제안했다. [동사의 목적어 역할]
+I am looking forward to seeing you next week. | 나는 다음 주에 너를 보는 것을 고대하고 있다. [전치사의 목적어 역할]
+
+[4. Gerund > 2. 동명사의 완료형과 수동형 ]
+# 단순동명사는 <동사원형 + -ing> 혹은 <being + 동사의 과거분사형>의 형식을 취하는데, 본동사의 시제와 동일한 시제 혹은 가까운 미래를 나타낸다. 반면 완료동명사는 완료부정사처럼 <having+동사의 과거분사형> 혹은 <having been+동사의 과거분사형>의 형식으로 쓰여서 본동사보다 한 시제 앞선 시제를 나타낸다.
+I am sure of his being rich. | 나는 그가 (현재) 부자인 것을 확신한다. (단순동명사)
+= I am sure that he is rich. | 나는 그가 부자라는 것을 확신한다. (복문)
+I was sure of his being rich. | 나는 그가 (그 당시에) 부자인 것을 확신했다. (단순동명사)
+= I was sure that he was rich. | 나는 그가 부자였다는 것을 확신했다. (복문)
+He regrets having been lazy. | 그는 (과거에) 게을렀던 것을 (현재) 후회한다. (완료동명사)
+= He regrets that he was lazy. | 그는 그가 게을렀었다는 것을 후회한다. (복문)
+He regretted having been lazy. | 그는 (대과거에) 게을렀었던 것을 (과거에) 후회했다. (완료동명사)
+= He regretted that he had been lazy. | 그는 그가 (더 이전에) 게을렀었다는 것을 후회했다. (복문)
+I hate being criticized behind my back. | 나는 내 등 뒤에서 비판받는 것을 싫어한다. (수동동명사)
+
+[4. Gerund > 2. 동명사의 완료형과 수동형 > 1. 동명사만을 목적어로 취하는 동사 ]
+# 동사의 종류에 따라 동명사만, 혹은 부정사만 목적어로 취하는 동사가 있으며, 모두 사용할 수 있으나 의미가 달라지는 경우가 있다.
+# mind, enjoy, avoid, give up, finish, deny, forgive, ... 현재의 행동, 경험, 습관 등
+Does she enjoy living in the country? | 그녀는 시골에서 사는 것을 즐기니?
+She finished writing a paper. | 그녀는 논문 쓰는 것을 끝마쳤다.
+
+[4. Gerund > 2. 동명사의 완료형과 수동형 > 2. 부정사만을 목적어로 취하는 동사 ]
+# 동사의 종류에 따라 동명사만, 혹은 부정사만 목적어로 취하는 동사가 있으며, 모두 사용할 수 있으나 의미가 달라지는 경우가 있다.
+# agree, choose, decide, expect, hope, promise, seek, wish, ... 앞으로의 행동, 기대 등 미래지향적
+She chose to run for the election. | 그녀는 선거에 출마하는 것을 선택했다. 
+He promised not to tell the secret to anybody. | 그는 그 비밀을 누구에게도 말하지 않을 것을 약속했다.
+
+[4. Gerund > 2. 동명사의 완료형과 수동형 > 3. 모두 사용할 수 있으나 뜻이 달라지는 경우 ]
+# 동사의 종류에 따라 동명사만, 혹은 부정사만 목적어로 취하는 동사가 있으며, 모두 사용할 수 있으나 의미가 달라지는 경우가 있다.
+She tried to grow lettuce in her apartment. | 그녀는 아파트에서 상추를 기르려고 노력했다(애썼다).
+She tried growing lettuce in her apartment. | 그녀는 아파트에서 (시험 삼아) 상추를 길러 보았다.
+I remember to post his letter. | 나는 그의 편지를 (앞으로) 부쳐야 할 것을 기억한다.
+I remembered posting his letter. | 나는 그의 편지를 (과거에) 부쳤던 것을 기억했다.
+Don’t forget to attend the meeting. | 회의에 참석해야 할 것을 잊지 마라.
+I will never forget seeing her at the party. | 나는 파티에서 그녀를 봤던 것을 결코 잊을 수가 없다.
+I stopped talking to him. | 나는 그에게 말하는 행위를 그만뒀다. 
+I stopped to talk to him. | 나는 그와 말하기 위해 (가던 길을) 멈췄다.
+I don’t like drinking. | 나는 (일반적으로) 술 마시는 것을 좋아하지 않는다. (취향)
+I don’t like to drink. | 나는 (지금/특정 상황에서) 술 마시는 것을 좋아하지 않는다. (선택/습관)
