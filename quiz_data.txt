@@ -96,7 +96,7 @@ He is learning how to swim. | 그는 수영하는 법을 배우고 있다.
 I wonder why she has not come. | 나는 왜 그녀가 오지 않았는지 궁금하다.
 He saw that the plan was useless. | 그는 그 계획이 쓸모없다는 것을 알았다/깨달았다.
 We watched the train leaving the station. | 우리는 기차가 역을 떠나는 것을 지켜보았다.
-We showed the pictures to our teacher. | 우리는 선생님께 사진을 보여드렸다.
+We showed the pictures to our teacher. | 우리는 선생님께 사진을 보여드렸다. (3형식)
 I prefer staying indoors on a cold winter day. | 나는 추운 겨울날에는 실내에 있는 것을 더 좋아한다.
 
 [2. Tense > 1. 기본시제(primary tense) > 1. 현재시제 > (1) 현재의 사실, 동작, 상태를 나타낼 때]
