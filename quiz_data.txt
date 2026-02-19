@@ -465,19 +465,19 @@ He regretted having been lazy. | 그는 (대과거에) 게을렀었던 것을 (�
 = He regretted that he had been lazy. | 그는 그가 (더 이전에) 게을렀었다는 것을 후회했다. (복문)
 I hate being criticized behind my back. | 나는 내 등 뒤에서 비판받는 것을 싫어한다. (수동동명사)
 
-[4. Gerund > 2. 동명사의 완료형과 수동형 > 1. 동명사만을 목적어로 취하는 동사 ]
+[4. Gerund > 3. 동명사와 부정사 > 1. 동명사만을 목적어로 취하는 동사 ]
 # 동사의 종류에 따라 동명사만, 혹은 부정사만 목적어로 취하는 동사가 있으며, 모두 사용할 수 있으나 의미가 달라지는 경우가 있다.
 # mind, enjoy, avoid, give up, finish, deny, forgive, ... 현재의 행동, 경험, 습관 등
 Does she enjoy living in the country? | 그녀는 시골에서 사는 것을 즐기니?
 She finished writing a paper. | 그녀는 논문 쓰는 것을 끝마쳤다.
 
-[4. Gerund > 2. 동명사의 완료형과 수동형 > 2. 부정사만을 목적어로 취하는 동사 ]
+[4. Gerund > 3. 동명사와 부정사 > 2. 부정사만을 목적어로 취하는 동사 ]
 # 동사의 종류에 따라 동명사만, 혹은 부정사만 목적어로 취하는 동사가 있으며, 모두 사용할 수 있으나 의미가 달라지는 경우가 있다.
 # agree, choose, decide, expect, hope, promise, seek, wish, ... 앞으로의 행동, 기대 등 미래지향적
 She chose to run for the election. | 그녀는 선거에 출마하는 것을 선택했다. 
 He promised not to tell the secret to anybody. | 그는 그 비밀을 누구에게도 말하지 않을 것을 약속했다.
 
-[4. Gerund > 2. 동명사의 완료형과 수동형 > 3. 모두 사용할 수 있으나 뜻이 달라지는 경우 ]
+[4. Gerund > 3. 동명사와 부정사 > 3. 모두 사용할 수 있으나 뜻이 달라지는 경우 ]
 # 동사의 종류에 따라 동명사만, 혹은 부정사만 목적어로 취하는 동사가 있으며, 모두 사용할 수 있으나 의미가 달라지는 경우가 있다.
 She tried to grow lettuce in her apartment. | 그녀는 아파트에서 상추를 기르려고 노력했다(애썼다).
 She tried growing lettuce in her apartment. | 그녀는 아파트에서 (시험 삼아) 상추를 길러 보았다.
@@ -489,3 +489,88 @@ I stopped talking to him. | 나는 그에게 말하는 행위를 그만뒀다.
 I stopped to talk to him. | 나는 그와 말하기 위해 (가던 길을) 멈췄다.
 I don’t like drinking. | 나는 (일반적으로) 술 마시는 것을 좋아하지 않는다. (취향)
 I don’t like to drink. | 나는 (지금/특정 상황에서) 술 마시는 것을 좋아하지 않는다. (선택/습관)
+
+[4. Gerund > 4. 동명사와 현재분사 ]
+# '-ing'형이 수식받는 명사의 용도나 목적을 가리킬 때는 동명사가 되고, 수식하는 명사가 그 행위의 주체가 되는 때는 현재분사가 된다. 예를 들어 a living room은 방의 용도가 거실이라는 의미이므로 동명사이고, a living thing의 경우에는 살아 있는 물체, 즉 생물이라는 뜻을 이루므로 현재분사로 분류된다.
+A sleeping car | 수면을 위한 차
+A car for sleeping | 수면을 위한 차 (for)
+A walking stick | 걷기를 위한 지팡이
+A smoking room | 흡연을 위한 방
+A sewing machine | 바느질을 위한 기계
+A dining table | 식사를 위한 탁자
+A swimming suit | 수영을 위한 옷
+A sleeping baby | 잠자고 있는 아기
+A baby who is sleeping | 잠자고 있는 아기 (who)
+A walking dictionary | 걸어 다니는 사전
+A smoking man | 담배를 피우고 있는 남자
+A dancing girl | 춤추고 있는 소녀
+A sailing ship | 항해하고 있는 배
+
+[4. Gerund > 5. 동명사의 의미상 주어 ]
+# 원칙적으로 소유격 혹은 목적격이 동명사의 의미상의 주어로 쓰이나, 문장의 주어와 같거나 일반인일 경우에는 생략한다.
+Doing nothing is doing ill. | 아무것도 하지 않는 것은 악을 행하는 것이다. (의미상 주어: 일반인)
+She was ashamed of being poor. | 그녀는 가난한 것을 부끄러워했다. (의미상 주어: 문장의 주어인 She)
+I can’t understand his/him behaving like that. | 나는 그가 그처럼 행동하는 것을 이해할 수 없다. (대명사: 소유격 his 또는 목적격 him)
+She had no doubt of her son/her son’s coming back to her. | 그녀는 그녀의 아들이 그녀에게 되돌아오는 것에 대해 의심을 갖지 않았다. (명사: 목적격 her son 또는 소유격 her son's)
+She insisted on John’s/John going there. | 그녀는 존이 그곳에 가는 것을 주장했다. (고유명사: 소유격 John's 또는 목적격 John)
+
+[4. Gerund > 6. 동명사의 관용적 용법 ]
+# [~하는 것은 불가능하다]
+There is no knowing when he will arrive. | 그가 언제 도착할지 아는 것은 불가능하다.
+It is impossible to know when he will arrive. | 그가 언제 도착할지 아는 것은 불가능하다.
+
+[4. Gerund > 6. 동명사의 관용적 용법 ]
+# [~해봐야 소용없다]
+It is no use trying to fight against God. | 신에 대항하여 싸우려고 시도하는 것은 소용없다.
+There is no use trying to fight against God. | 신에 대항하여 싸우려고 시도하는 것은 소용없다.
+It is of no use to try to fight against God. | 신에 대항하여 싸우려고 시도하는 것은 소용없다.
+It is useless to try to fight against God. | 신에 대항하여 싸우려고 시도하는 것은 소용없다.
+
+[4. Gerund > 6. 동명사의 관용적 용법 ]
+# [~하지 않을 수 없다 (어쩔 수 없이 ~하다)]
+She cannot help being late this morning. | 그녀는 오늘 아침에 지각하지 않을 수 없다.
+She cannot but be late this morning. | 그녀는 오늘 아침에 지각하지 않을 수 없다.
+She cannot choose but be late this morning. | 그녀는 오늘 아침에 지각하지 않을 수 없다.
+She cannot help but be late this morning. | 그녀는 오늘 아침에 지각하지 않을 수 없다.
+She has no choice but to be late this morning. | 그녀는 오늘 아침에 지각하는 것 외에는 선택의 여지가 없다.
+
+[4. Gerund > 6. 동명사의 관용적 용법 ]
+# [~은 말할 필요도 없다]
+It goes without saying that honesty is the best policy. | 정직이 최선의 방책이라는 것은 말할 필요도 없이 통용된다.
+It is needless to say that honesty is the best policy. | 정직이 최선의 방책이라는 것을 말하는 것은 불필요하다.
+
+[4. Gerund > 6. 동명사의 관용적 용법 ]
+# [규칙적으로 ~하다]
+He makes a point of taking a walk every morning. | 그는 매일 아침 산책하는 것을 중점으로 삼는다. (규칙으로 삼는다)
+He makes it a rule to take a walk every morning. | 그는 매일 아침 산책하는 것을 규칙으로 만든다.
+
+[4. Gerund > 6. 동명사의 관용적 용법 ]
+# [막 ~하려던 참이다]
+The sun was on the point of rising. | 태양은 막 떠오르려는 시점에 있었다.
+The sun was about to rise. | 태양은 막 떠오르려고 했다.
+
+[4. Gerund > 6. 동명사의 관용적 용법 ]
+# [~할 가치가 있다.]
+This book is worth reading again and again. | 이 책은 반복해서 읽을 가치가 있습니다. (힌트: worth ~ing)
+It is worth while to read this book again and again. | 이 책을 반복해서 읽는 것은 가치가 있습니다. (힌트: worth while to-v)
+
+[4. Gerund > 6. 동명사의 관용적 용법 ]
+# [~하고 싶은 기분이 든다.]
+I felt like crying at the sight. | 저는 그 광경을 보고 울고 싶은 기분이 들었습니다. (힌트: feel like ~ing)
+I felt inclined to cry at the sight. | 저는 그 광경을 보고 울고 싶은 마음이 생겼습니다. (힌트: feel inclined to-v)
+
+[4. Gerund > 6. 동명사의 관용적 용법 ]
+# [~하는 건 어때?]
+What do you say to going swimming? | 수영하러 가는 것에 대해 어떻게 말하시겠습니까? (힌트: What do you say to ~ing)
+How about going swimming? | 수영하러 가는 것은 어떻습니까? (힌트: How about ~ing)
+What about going swimming? | 수영하러 가는 것은 어떻습니까? (힌트: What about ~ing)
+Let’s go swimming, shall we? | 수영하러 갑시다, 그럴까요? (힌트: Let's ~, shall we)
+
+[4. Gerund > 6. 동명사의 관용적 용법 ]
+# [~하자마자]
+On entering the room, we at once perceived that he was a man of taste. | 그 방에 들어가자마자, 우리는 즉시 그가 취향이 있는 사람이라는 것을 인지했습니다. (힌트: On ~ing)
+As soon as we entered the room, we at once perceived that he was a man of taste. | 우리가 그 방에 들어가자마자, 우리는 즉시 그가 취향이 있는 사람이라는 것을 인지했습니다. (힌트: As soon as 주어 동사)
+
+[4. Gerund > 연습문제 1 ]
+
+[4. Gerund > 연습문제 2 ]
