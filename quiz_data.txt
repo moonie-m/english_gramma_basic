@@ -585,3 +585,157 @@ What do you say to taking a walk along the bank? | 그 둑을 따라 산책하�
 I was very late for school that morning, and I was afraid of being scolded. | 나는 그날 아침 학교에 매우 늦었고, 꾸중을 듣게 되는 것을 두려워했습니다.
 I don't feel like eating anything. | 나는 아무것도 먹고 싶은 기분이 들지 않습니다.
 The baby narrowly escaped being run over by a truck. | 그 아기는 트럭에 의해 치이는 것을 간신히 피했습니다.
+
+[5. 분사 > 1. 분사의 기능 ]
+# 일반 형용사와 마찬가지로 현재분사와 과거분사는 명사를 수식하거나 주격보어 및 목적격보어로 쓰이며 서술적 기능을 수행하기도 한다. 현재분사는 능동이나 진행의 의미를 지니고, 과거분서는 수동이나 완료의 의미를 지닌다. 
+My uncle was a boring man. | 나의 삼촌은 지루하게 하는(지루한) 사람이었다. (현재분사 : 능동)
+The bored students looked out of the window. | 그 지루해진 학생들은 창밖을 내다보았다. (과거분사 : 수동)
+There were some fallen leaves in the woods. | 숲 속에는 떨어진 잎들(낙엽들)이 약간 있었다. (과거분사 : 완료)
+It was raining hard when I arrived there. | 내가 그곳에 도착했을 때 비가 몹시 내리고 있었다. (현재분사 : 진행형)
+The old man was seen to cross the street. | 그 노인이 길을 건너는 것이 목격되었다. (과거분사 : 수동태)
+She has finished her exercise. | 그녀는 그녀의 연습(운동)을 끝마쳤다. (과거분사 : 현재완료의 완료형)
+
+[5. 분사 > 1. 분사의 기능 > 1. 한정적 용법]
+# 일반 형용사와 마찬가지로 현재분사와 과거분사는 명사를 수식하거나 주격보어 및 목적격보어로 쓰이며 서술적 기능을 수행하기도 한다. 현재분사는 능동이나 진행의 의미를 지니고, 과거분서는 수동이나 완료의 의미를 지닌다. 
+# 1. 한정적 용법
+I saw a flying saucer once. | 나는 한때 날아다니는 접시(UFO)를 보았다.
+She tended the wounded soldier. | 그녀는 그 부상당한 군인을 돌보았다.
+Look at the baby sleeping in the cradle. | 요람에서 자고 있는 아기를 보아라.
+Among those invited were some ladies. | 초대받은 사람들 중에는 몇몇 숙녀들이 있었다.
+There is a man waiting at the door. | 문에서 기다리고 있는 한 남자가 있다.
+The well-trained worker finished his work earlier than expected. | 그 잘 훈련된 노동자는 예상되었던 것보다 더 일찍 그의 일을 끝마쳤다.
+
+[5. 분사 > 1. 분사의 기능 > 2. 서술적 용법]
+# 일반 형용사와 마찬가지로 현재분사와 과거분사는 명사를 수식하거나 주격보어 및 목적격보어로 쓰이며 서술적 기능을 수행하기도 한다. 현재분사는 능동이나 진행의 의미를 지니고, 과거분서는 수동이나 완료의 의미를 지닌다. 
+# 2. 서술적 용법
+The girl stood reading a magazine. | 그 소녀는 잡지를 읽으며 서 있었다. (주어의 보어)
+The boy came running to see his mother. | 그 소년은 그의 어머니를 보기 위해 달려왔다. (주어의 보어)
+She returned home quite exhausted with teaching all day. | 그녀는 하루 종일 가르치는 것으로 꽤 지쳐서 집으로 돌아왔다. (주어의 보어)
+The door remained locked. | 그 문은 잠긴 채로 남아 있었다. (주어의 보어)
+I heard footsteps approaching from the garden. | 나는 정원으로부터 다가오는 발소리를 들었다. (목적어의 보어)
+Can you smell something burning? | 너는 무언가 타고 있는 냄새를 맡을 수 있니? (목적어의 보어)
+You must get your hair cut. | 너는 너의 머리카락이 잘리도록 해야 한다. (목적어의 보어)
+We shall have the building painted. | 우리는 그 건물이 칠해지도록 할 것이다. (목적어의 보어)
+
+[5. 분사 > 1. 분사의 기능 > 3. 분사의 전용]
+# 일반 형용사와 마찬가지로 현재분사와 과거분사는 명사를 수식하거나 주격보어 및 목적격보어로 쓰이며 서술적 기능을 수행하기도 한다. 현재분사는 능동이나 진행의 의미를 지니고, 과거분서는 수동이나 완료의 의미를 지닌다. 
+# 3. 분사의 전용
+# (1) 현재분사와 과거분사에 정관사 the를 붙이면 보통명사가 된다.
+The vanquished hid themselves among the mountains. | 패배한 사람들은 산속에 그들 자신을 숨겼다. (복수보통명사)
+The accused was acquitted. | 그 피고인은 무죄 판결을 받았다. (단수보통명사)
+The wounded were carried to the hospital. | 부상당한 사람들은 병원으로 옮겨졌다. (복수보통명사)
+
+[5. 분사 > 1. 분사의 기능 > 3. 분사의 전용 ]
+# 일반 형용사와 마찬가지로 현재분사와 과거분사는 명사를 수식하거나 주격보어 및 목적격보어로 쓰이며 서술적 기능을 수행하기도 한다. 현재분사는 능동이나 진행의 의미를 지니고, 과거분서는 수동이나 완료의 의미를 지닌다. 
+# 3. 분사의 전용
+# (2) 현재분사 + 형용사
+It’s boiling hot. | 끓어오를 듯이 뜨겁다. (현재분사 boiling이 hot를 수식하는 부사로 전용된 경우)
+We were caught in the storm and got our clothes soaking wet. | 우리는 폭풍우에 갇혔고 우리의 옷들이 흠뻑 젖게 되었다.
+
+[5. 분사 > 1. 분사의 기능 > 3. 분사의 전용 ]
+# 일반 형용사와 마찬가지로 현재분사와 과거분사는 명사를 수식하거나 주격보어 및 목적격보어로 쓰이며 서술적 기능을 수행하기도 한다. 현재분사는 능동이나 진행의 의미를 지니고, 과거분서는 수동이나 완료의 의미를 지닌다. 
+# 3. 분사의 전용
+# (3) <명사 + -ed>가 과거분사처럼 명사를 수식하는 경우
+A blue-eyed girl was standing in the doorway. | 파란 눈을 가진 한 소녀가 문간에 서 있었다.
+I bought a three-legged stool. | 나는 다리가 세 개 달린 의자를 샀다.
+
+[5. 분사 > 1. 분사의 기능 > 3. 분사의 전용 ]
+# 일반 형용사와 마찬가지로 현재분사와 과거분사는 명사를 수식하거나 주격보어 및 목적격보어로 쓰이며 서술적 기능을 수행하기도 한다. 현재분사는 능동이나 진행의 의미를 지니고, 과거분서는 수동이나 완료의 의미를 지닌다. 
+# 3. 분사의 전용
+# (4) 현재분사의 전치사화
+Excepting the mayor, all were present. | 시장을 제외하고, 모두가 참석했다.
+ [5. 분사 > 1. 분사의 기능 > 3. 분사의 전용 ]
+# 일반 형용사와 마찬가지로 현재분사와 과거분사는 명사를 수식하거나 주격보어 및 목적격보어로 쓰이며 서술적 기능을 수행하기도 한다. 현재분사는 능동이나 진행의 의미를 지니고, 과거분서는 수동이나 완료의 의미를 지닌다. 
+# 3. 분사의 전용
+# (5) 현재분사, 과거분사의 접속사화
+Supposing it rains, what shall we do? | 만약 비가 온다면, 우리는 무엇을 해야 할까?
+If it rains, what shall we do? | 만약 비가 온다면, 우리는 무엇을 해야 할까? (if문)
+Provided (that) there is no opposition, we shall hold the meeting here. | 만약 반대가 없다면, 우리는 여기에서 회의를 열 것이다.
+If there is no opposition, we shall hold the meeting here. | 만약 반대가 없다면, 우리는 여기에서 회의를 열 것이다. (if문)
+
+[5. 분사 > 2. 분사구문 > 1. 분사구문의 기능 ]
+# 복문의 종속절에서 접속사와 주어 및 동사를 하나의 분사로 대체하는 축약된 구문을 분사구문이라고 한다. 접속사가 생략되었기 때문에 의미가 모호해질 수 있으므로 유의해야 한다.
+# 이유, 시간, 조건, 양보 등을 나타내는 부사절에서 접속사와 주어, 그리고 동사를 하나의 분사로 대체한다.
+# (1) 이유(As, Because, Since)
+Feeling tired, I will stay at home this afternoon. | 피곤함을 느끼기 때문에, 나는 오늘 오후에 집에 머물 것이다.
+As I feel tired, I will stay at home this afternoon. | 내가 피곤함을 느끼기 때문에, 나는 오늘 오후에 집에 머물 것이다. (As~)
+
+[5. 분사 > 2. 분사구문 > 1. 분사구문의 기능 ]
+# 복문의 종속절에서 접속사와 주어 및 동사를 하나의 분사로 대체하는 축약된 구문을 분사구문이라고 한다. 접속사가 생략되었기 때문에 의미가 모호해질 수 있으므로 유의해야 한다.
+# 이유, 시간, 조건, 양보 등을 나타내는 부사절에서 접속사와 주어, 그리고 동사를 하나의 분사로 대체한다.
+# (2) 시간(When, While, After 등)
+Living in New York, I became acquainted with her. | 뉴욕에 살 때, 나는 그녀와 아는 사이가 되었다.
+When(While) I lived in New York, I became acquainted with her. | 내가 뉴욕에 살았을 때(사는 동안), 나는 그녀와 아는 사이가 되었다.
+
+[5. 분사 > 2. 분사구문 > 1. 분사구문의 기능 ]
+# 복문의 종속절에서 접속사와 주어 및 동사를 하나의 분사로 대체하는 축약된 구문을 분사구문이라고 한다. 접속사가 생략되었기 때문에 의미가 모호해질 수 있으므로 유의해야 한다.
+# 이유, 시간, 조건, 양보 등을 나타내는 부사절에서 접속사와 주어, 그리고 동사를 하나의 분사로 대체한다.
+# (3) 조건(if)
+Turning to the left, you will find the house you are looking for. | 왼쪽으로 돈다면, 너는 네가 찾고 있는 그 집을 발견할 것이다.
+If you turn to the left, you will find the house you are looking for. | 만약 네가 왼쪽으로 돈다면, 너는 네가 찾고 있는 그 집을 발견할 것이다. (if문)
+
+[5. 분사 > 2. 분사구문 > 1. 분사구문의 기능 ]
+# 복문의 종속절에서 접속사와 주어 및 동사를 하나의 분사로 대체하는 축약된 구문을 분사구문이라고 한다. 접속사가 생략되었기 때문에 의미가 모호해질 수 있으므로 유의해야 한다.
+# 이유, 시간, 조건, 양보 등을 나타내는 부사절에서 접속사와 주어, 그리고 동사를 하나의 분사로 대체한다.
+# (4) 양보(though, Even if 등)
+Admitting what you say, I still have some doubts left. | 네가 말하는 것을 인정할지라도, 나는 여전히 약간의 의심들이 남아 있다.
+Though I admit what you say, I still have some doubts left. | 비록 내가 네가 말하는 것을 인정할지라도, 나는 여전히 약간의 의심들이 남아 있다.
+
+[5. 분사 > 2. 분사구문 > 1. 분사구문의 기능 ]
+# 복문의 종속절에서 접속사와 주어 및 동사를 하나의 분사로 대체하는 축약된 구문을 분사구문이라고 한다. 접속사가 생략되었기 때문에 의미가 모호해질 수 있으므로 유의해야 한다.
+# 이유, 시간, 조건, 양보 등을 나타내는 부사절에서 접속사와 주어, 그리고 동사를 하나의 분사로 대체한다.
+# (5) 부대상황, 동시동작
+The flames rose higher and higher, throwing their light far and wide. | 그 불꽃들은 그들의 빛을 멀리 그리고 넓게 던지면서, 점점 더 높이 솟아올랐다.
+The flames rose higher, and threw their light far and wide. | 그 불꽃들은 더 높이 솟아올랐고, 그들의 빛을 멀리 그리고 넓게 던졌다.
+He sat reading a novel, with his wife sewing beside him. | 그는 그의 아내가 그의 옆에서 바느질하는 채로, 소설을 읽으며 앉아 있었다.
+He sat reading, and his wife was sewing beside him. | 그는 읽으며 앉아 있었고, 그의 아내는 그의 옆에서 바느질하고 있었다.
+
+[5. 분사 > 2. 분사구문 > 2. 분사구문의 완료형, 수동형, 부정형 ]
+# 복문의 종속절에서 접속사와 주어 및 동사를 하나의 분사로 대체하는 축약된 구문을 분사구문이라고 한다. 접속사가 생략되었기 때문에 의미가 모호해질 수 있으므로 유의해야 한다.
+# (1) 완료분사구문
+# <Having + 동사의 과거분사형>의 형식을 취하며 주절의 동사보다 한 시제 더 앞선다.
+Having finished my shopping, I went home. | 나의 쇼핑을 끝마친 후에, 나는 집으로 갔다.
+After I had finished my shopping, I went home. | 내가 나의 쇼핑을 끝마친 후에, 나는 집으로 갔다.
+
+[5. 분사 > 2. 분사구문 > 2. 분사구문의 완료형, 수동형, 부정형 ]
+# 복문의 종속절에서 접속사와 주어 및 동사를 하나의 분사로 대체하는 축약된 구문을 분사구문이라고 한다. 접속사가 생략되었기 때문에 의미가 모호해질 수 있으므로 유의해야 한다.
+# (2) 수동분사구문
+# 수동분사구문에서의 Being, Having been은 생략되는 경우가 많다. 여기서는 being이 생략되었다.
+Badly injured, he could not walk. | 심하게 부상을 당했기 때문에, 그는 걸을 수 없었다.
+Being badly injured, he could not walk. | 심하게 부상을 당했기 때문에, 그는 걸을 수 없었다.
+As he was badly injured, he could not walk. | 그가 심하게 부상을 당했기 때문에, 그는 걸을 수 없었다.
+
+[5. 분사 > 2. 분사구문 > 2. 분사구문의 완료형, 수동형, 부정형 ]
+# 복문의 종속절에서 접속사와 주어 및 동사를 하나의 분사로 대체하는 축약된 구문을 분사구문이라고 한다. 접속사가 생략되었기 때문에 의미가 모호해질 수 있으므로 유의해야 한다.
+# (3) 분사구문의 부정
+Not knowing him, I was puzzled. | 그를 알지 못했기 때문에, 나는 당황했다.
+As I did not know him, I was puzzled. | 내가 그를 알지 못했기 때문에, 나는 당황했다. (As~)
+Never having spoken in public, he got nervous. | 대중 앞에서 말해본 적이 결코 없었기 때문에, 그는 긴장했다.
+As he had never spoken in public, he got nervous. | 그가 대중 앞에서 말해본 적이 결코 없었기 때문에, 그는 긴장했다. (As~)
+ [5. 분사 > 2. 분사구문 > 3. 독립분사구문 ]
+# 복문의 종속절에서 접속사와 주어 및 동사를 하나의 분사로 대체하는 축약된 구문을 분사구문이라고 한다. 접속사가 생략되었기 때문에 의미가 모호해질 수 있으므로 유의해야 한다.
+# 종속절의 주어가 주절의 주어와 다르면 분사구문에서 주어를 생략할 수 없고, 그대로 써 주어야 한다.
+It being fine, they are basking in the sun. | 날씨가 좋기 때문에, 그들은 햇볕을 쬐고 있다.
+= As it is fine, they are basking in the sun. | 날씨가 좋기 때문에, 그들은 햇볕을 쬐고 있다.
+Night coming on, we started for home. | 밤이 다가오자, 우리는 집을 향해 출발했다.
+= When night came on, we started for home. | 밤이 다가왔을 때, 우리는 집을 향해 출발했다.
+She being honest, everybody loves her. | 그녀는 정직하기 때문에, 모든 사람이 그녀를 사랑한다.
+= As she is honest, everybody loves her. | 그녀가 정직하기 때문에, 모든 사람이 그녀를 사랑한다.
+This work done, they all dispersed. | 이 일이 끝난 후에, 그들은 모두 흩어졌다.
+= This work having been done, they all dispersed. | 이 일이 끝난 후에, 그들은 모두 흩어졌다.
+= After this work had been done, they all dispersed. | 이 일이 끝난 후에, 그들은 모두 흩어졌다.
+= After this work was done, they all dispersed. | 이 일이 끝난 후에, 그들은 모두 흩어졌다. (연속된 일련의 행위이므로 과거시제도 가능)
+
+[5. 분사 > 연습문제 1 ]
+The soccer game was very exciting. | 그 축구 경기는 매우 흥미진진했다.
+Compared with her sister, she is not so beautiful. | 그녀의 여동생(언니)과 비교되었을 때, 그녀는 그렇게 아름답지 않다.
+We all felt exhausted after taking the examination. | 우리 모두는 그 시험을 치른 후에 지쳤다고 느꼈다.
+The girl heard her name called behind her back. | 그 소녀는 그녀의 등 뒤에서 그녀의 이름이 불리는 것을 들었다.
+The essay, written in spoken English, is easy to read. | 구어체 영어로 쓰인 그 에세이는 읽기 쉽다.
+
+[5. 분사 > 연습문제 2 ]
+Though I admit what you say, I still think you are in the wrong. | 비록 내가 네가 말하는 것을 인정할지라도, 나는 여전히 네가 틀렸다고 생각한다.
+As I was tired with the work, I sat down on the grass. | 나는 그 일로 지쳤기 때문에, 풀밭에 앉았다.
+When night came on, the travellers began to feel hungry. | 밤이 다가왔을 때, 그 여행자들은 배고픔을 느끼기 시작했다.
+If you turn to the left at the next corner, you will find the post office. | 만약 네가 다음 모퉁이에서 왼쪽으로 돈다면, 너는 우체국을 발견할 것이다.
+After I had failed several times, I succeeded at last. | 내가 여러 번 실패했던 후에, 나는 마침내 성공했다.
